@@ -1,0 +1,24 @@
+Hogwarts%Ministry%0001%Fall term is about to start
+Ministry%Hogwarts%0002%Here's a new broom
+Winterfell%Red Keep%0003%You are hereby summoned
+Winterfell%Castle Black%0678%Winter is coming
+Castle Black%Winterfell%1234%Winter is here
+Ministry%Hogwarts%1602%Here's a remembrall
+Hogwarts%Ministry%1703%Things we lose have a way of coming back to us in the end, if not always in the way we expect.
+Ministry%Hogwarts%1526%It matters not what someone is born, but what they grow to be
+Winterfell%Red Keep%1810%A girl is Arya Stark of Winterfell. And I'm going home
+Red Keep%Winterfell%2484%When you play a game of thrones you win or you die
+Castle Black%Winterfell%3516%The night is dark and full of terrors
+Hogwarts%Ministry%4268%I hope you're pleased with yourselves. We could all have been killed - or worse, expelled
+Ministry%Hogwarts%3808%But you know, happiness can be found even in the darkest of times, if one only remembers to turn on the light
+Red Keep%Winterfell%1322%Never forget what you are, for surely the world will not. Make it your strength. Then it can never be your weakness. Armour yourself in it, and it will never be used to hurt you.
+Castle Black%Winterfell%6250%Night gathers, and now my watch begins
+Hogwarts%Ministry%7175%It does not do well do dwell on dreams and forget to live
+Ministry%Hogwarts%2719%Every human life is worth the same, and worth saving
+Red Keep%Winterfell%8254%My brother has his sword, King Robert has his warhammer and I have my mind...and a mind needs books as a sword needs a whetstone if it is to keep its edge. That's why I read so much Jon Snow
+Hogwarts%Ministry%9185%It is our choices, Harry, that show what we truly are, far more than our abilities
+Ministry%Hogwarts%0318%It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends
+Red Keep%Winterfell%9231%A Lannister always pays his debts
+Hogwarts%Ministry%9877%I solemnly swear I am up to no good
+Ministry%Hogwarts%4350%If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals
+

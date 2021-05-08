@@ -1,29 +1,30 @@
 package projectMessenger;
 
+import java.io.FileNotFoundException;
+import java.io.FileInputStream;
+import java.util.Scanner;
+
 public class Envelope {
 	
-	private String secretNote;
-	
-	public Envelope(String secretNote) {
+	public  void readFromFile() {
+	try {
+		Scanner file = new Scanner(new FileInputStream("message.txt"));
 		
-		this.secretNote = secretNote;
-	}
-	
-	
-	public void setNote(String secretNote) {
+		String line = file.nextLine();
+		System.out.println(line);
 		
-		this.secretNote = secretNote;
-	}
-	
-	public String getNote() {
-		
-		return secretNote;
-	}
-	
-	
-	 //@Override
-		//public String toString() {
-		  //     return "GroceryStoreItem name: " + name + ", perishable:" + expired;
-		 //  }
+		file.close();
 
-}
+		
+	}catch(FileNotFoundException e) {
+		System.out.println("File not found");
+	}
+	
+
+}}
+
+	
+	
+	
+	 
+
