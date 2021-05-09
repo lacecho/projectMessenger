@@ -43,6 +43,13 @@ public class Ravens extends Messengers{
 		return name;
 	}
 	
+	/**
+	 * method notifies Ravens added to aviary
+	 */
+	public void stayHome() {
+		System.out.println("Raven stays");
+	}
+	
 	@Override
 	public String toString() {
 	 

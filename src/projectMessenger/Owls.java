@@ -40,7 +40,9 @@ package projectMessenger;
 		
 		return name;
 	}
-	
+	/**
+	 * method notifies Owls return home
+	 */
 	public void goHome() {
 		System.out.println("Owl is going home");
 	}
